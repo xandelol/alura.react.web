@@ -1,0 +1,9 @@
+{
+  "name": "alura.react.web",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "latest",
+    "jquery": "latest",
+    "react": "latest"
+  }
+}
